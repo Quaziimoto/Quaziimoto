@@ -50,6 +50,8 @@ It's in very early development, but [check it out](https://github.com/KermitTheM
 
 Currently, I plan on adding GNU's coreutils package, which as of right now just include ls (w/ -a and -l tags, written as rls) and pwd (No tags, written as rpwd).
 
+It's also very unpolished and buggy, so I'd appreciate any help.
+
 ## Tech I use
 
 <div align="center">
